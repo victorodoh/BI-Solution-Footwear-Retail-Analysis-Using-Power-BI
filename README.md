@@ -12,7 +12,7 @@ The BI solution addresses the following questions:
 - How are stores performing in sales? Which are the top-performing and underperforming stores and how are the average sales across these stores influenced by product categories?
 - Who are the most valuable Customers? What have been their individual contributions to overall company sales over time?
 
-DATA SOURCE: The data set used consists of 6 tables (.csv file types) and was retrieved from https://liveteesac-my.sharepoint.com/:x:/g/personal/a_occhipinti_tees_ac_uk/EZZMyeL2KzNFjMUElt31tYoB8y5QoBqDxEbN3-nQspF1Pw?e=FKk7ks
+DATA SOURCE: The data set used consists of 6 tables (.csv file types) and it is the 22nd among the list of datasets which can be retrieved from https://liveteesac-my.sharepoint.com/:x:/g/personal/a_occhipinti_tees_ac_uk/EZZMyeL2KzNFjMUElt31tYoB8y5QoBqDxEbN3-nQspF1Pw?e=FKk7ks
 
 This Repo contains the report on analysis and all 7 pages of the dashboard in pdf.
 
