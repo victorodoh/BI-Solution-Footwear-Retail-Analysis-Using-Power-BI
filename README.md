@@ -22,7 +22,7 @@ This Repo contains the report on analysis and all 7 pages of the dashboard in pd
 
 ## LOADING THE DASHBOARD
 
-The BI Soluton is hosted on the [Power BI Service](https://app.powerbi.com/groups/me/reports/90034c5b-8f2a-4105-9bfa-3f85ebe25bcc/ReportSectionbdeeef91407bec864796)
+The BI Soluton is hosted on the Power BI Service. [Click to Load](https://app.powerbi.com/groups/me/reports/90034c5b-8f2a-4105-9bfa-3f85ebe25bcc/ReportSectionbdeeef91407bec864796)
 
 ## KEY FINDINGS
 
