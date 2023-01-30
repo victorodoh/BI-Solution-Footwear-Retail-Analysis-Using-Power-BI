@@ -1,4 +1,5 @@
-BI SOLUTION: FOOTWEAR RETAIL ANALYSIS USING MICROSOFT POWER BI
+BI SOLUTION: FOOTWEAR RETAIL ANALYSIS USING MICROSOFT POWER BI  
+
 
 A business intelligence (BI) solution that attempts to answer specific business questions using sales data from a footwear retail company and provide analysis that will give its executive management and store managers insights to help with decision-making and planning.
 
