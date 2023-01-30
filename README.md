@@ -3,7 +3,7 @@
 
 A business intelligence (BI) solution that attempts to answer specific business questions using sales data from a footwear retail company and provide analysis that will give its executive management and store managers insights to help with decision-making and planning.
 
-## BI REQUIREMENTS / QUESTIONS:
+## BI REQUIREMENTS / QUESTIONS
 
 The BI solution addresses the following questions:
 
@@ -13,18 +13,18 @@ The BI solution addresses the following questions:
 - How are stores performing in sales? Which are the top-performing and underperforming stores and how are the average sales across these stores influenced by product categories?
 - Who are the most valuable Customers? What have been their individual contributions to overall company sales over time?
 
-## DATA SOURCE:
+## DATA SOURCE
 
 The data set used consists of 6 tables (.csv file types) and was retrieved from - 
 https://liveteesac-my.sharepoint.com/:f:/g/personal/a_occhipinti_tees_ac_uk/ElTbf1oNKtdDsSM9YC4RhQgB1l6OsXuqYbjgmDsTulSslQ?e=WMhJlQ
 
 This Repo contains the report on analysis and all 7 pages of the dashboard in pdf.
 
-## LOADING THE DASHBOARD:
+## LOADING THE DASHBOARD
 
 The BI Soluton is hosted on the Power BI Service : https://app.powerbi.com/groups/me/reports/90034c5b-8f2a-4105-9bfa-3f85ebe25bcc/ReportSectionbdeeef91407bec864796
 
-## KEY FINDINGS:
+## KEY FINDINGS
 
 - The highest YOY sales growth ever recorded was in 2015, a record 478.7% sales increase from the year 2014 to 2015 (figure 1.0).
 - YOY Sales growth has been on a steady decline since its peak value in 2015 (figure 1.0).
@@ -39,7 +39,7 @@ The BI Soluton is hosted on the Power BI Service : https://app.powerbi.com/group
 - On average, for every £1M annual profit contributed by the Ladies Fashion Boots  Market Group, Intangibles contributes a negative annual profit (Loss) of -£1M thereby canceling the profits out (Figure 2.9).
 - Over time, more sales have been recorded in the second half of the year than in the first (Figure 2.13).
 
-## CONCLUSION / RECOMMENDATIONS:
+## CONCLUSION / RECOMMENDATIONS
 
 - The rapid and continuous decrease in sales that started at the end of 2019 can be reversed by implementing more online product-based marketing techniques.
 - Since the start of the year 2020, market groups including “Ladies Sport Casual” and “Ladies Fashion Sandals” have consistently increased sales. To increase overall company sales, more items from these groupings might be distributed across all stores.
