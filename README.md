@@ -20,10 +20,6 @@ https://liveteesac-my.sharepoint.com/:f:/g/personal/a_occhipinti_tees_ac_uk/ElTb
 
 This Repo contains the report on analysis and all 7 pages of the dashboard in pdf.
 
-## LOADING THE DASHBOARD
-
-The BI Soluton is hosted on the Power BI Service. [Click to Load](https://app.powerbi.com/groups/me/reports/90034c5b-8f2a-4105-9bfa-3f85ebe25bcc/ReportSectionbdeeef91407bec864796)
-
 ## KEY FINDINGS
 
 - The highest YOY sales growth ever recorded was in 2015, a record 478.7% sales increase from the year 2014 to 2015 (figure 1.0).
